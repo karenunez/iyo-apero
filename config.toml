@@ -101,7 +101,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Educación"
     title = "Educación"
-    url = "/educacin/"
+    url = "/educacion/"
     weight = 3
   [[menu.header]]
     name = "Cursos y certificaciones"

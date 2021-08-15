@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Competencias"
 description: |
-  A Hugo theme made for R Markdown users.
+  Cuento con experiencia en diversas áreas.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.

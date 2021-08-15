@@ -89,26 +89,30 @@ enableEmoji = true
 
 [menu]
   [[menu.header]]
-    name = "About"
-    title = "About Blogophonic"
-    url = "/about/"
+    name = "Bio"
+    title = "Información general"
+    url = "/bio/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Competencias"
+    title = "Competencias"
+    url = "/competencias/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "Experiencia laboral"
+    title = "Experiencia laboral"
+    url = "/explaboral/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Educación"
+    title = "Educación"
+    url = "/educacin/"
     weight = 4
-    
+  [[menu.header]]
+    name = "Cursos y certificaciones"
+    title = "Cursos y certificaciones"
+    url = "/cursos/"
+    weight = 5
   # Configure footer  
   [[menu.footer]]
     name = "License"

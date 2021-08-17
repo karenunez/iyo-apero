@@ -96,7 +96,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Experiencia laboral"
     title = "Experiencia laboral"
-    url = "/explaboral/"
+    url = "/expLaboral/"
     weight = 2
   [[menu.header]]
     name = "Educación"

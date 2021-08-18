@@ -84,22 +84,22 @@ enableEmoji = true
   tag = "tags"
 
 [menu]
-  [[menu.header]]
+  [[menu.main]]
     name = "Competencias"
     title = "Competencias"
     url = "/competencias/"
     weight = 1
-  [[menu.header]]
+  [[menu.main]]
     name = "Experiencia laboral"
     title = "Experiencia laboral"
     url = "/expLaboral/"
     weight = 2
-  [[menu.header]]
+  [[menu.main]]
     name = "Educación"
     title = "Educación"
     url = "/educacion/"
     weight = 3
-  [[menu.header]]
+  [[menu.main]]
     name = "Cursos y certificaciones"
     title = "Cursos y certificaciones"
     url = "/cursos/"

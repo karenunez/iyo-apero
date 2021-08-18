@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-Ésta es la lista de mis competencias
+Ésta es la lista de mis competencias:

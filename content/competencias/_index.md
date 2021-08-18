@@ -1,7 +1,7 @@
 ---
 title: "Competencias"
 description: |
-  Cuento con experiencia en diversas áreas.
+  Cuento con experiencia en diversas áreas dentro de la biología.
 show_header: true
 sidebar_left: false
 # Keep this! Do not edit.
